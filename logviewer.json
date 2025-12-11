@@ -1,0 +1,22 @@
+{
+    "version": "0.1.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.5/logviewer_Windows_x86_64.tar.gz",
+            "bin": [
+                "logviewer.exe"
+            ],
+            "hash": "dc31cfe6de5cd1b2ad6850dd8068ef94b663e7d7014c217e9e4869f52a3d2033"
+        },
+        "arm64": {
+            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.5/logviewer_Windows_arm64.tar.gz",
+            "bin": [
+                "logviewer.exe"
+            ],
+            "hash": "466776fcd4c71da5f142ca714a726194444c43225f7ab1e2f67ac7e02f8c0d9b"
+        }
+    },
+    "homepage": "https://github.com/bascanada/logviewer",
+    "license": "GPL-3.0-or-later",
+    "description": "CLI log client for multiple sources (Splunk, K8s, Docker, etc)"
+}

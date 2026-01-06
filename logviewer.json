@@ -1,19 +1,19 @@
 {
-    "version": "0.1.9",
+    "version": "0.1.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.9/logviewer_Windows_x86_64.tar.gz",
+            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.10/logviewer_Windows_x86_64.tar.gz",
             "bin": [
                 "logviewer.exe"
             ],
-            "hash": "6190618773570f9ca24edd4e67da480ac27a9ace85b92852c8a44b561acd3aa8"
+            "hash": "cb2f07a575f3de20b768a5615e029347e46be0b1935a88a7c587cfc007761d7f"
         },
         "arm64": {
-            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.9/logviewer_Windows_arm64.tar.gz",
+            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.10/logviewer_Windows_arm64.tar.gz",
             "bin": [
                 "logviewer.exe"
             ],
-            "hash": "9e1839209903ff54d415ba612d88d67b672f39363b2b0b9497ec9efce2ededae"
+            "hash": "4e82b5b242269717ca5dc98a7c233e56e3f7d713a53a16e1e8a03148f10e2ed1"
         }
     },
     "homepage": "https://github.com/bascanada/logviewer",

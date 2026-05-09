@@ -1,22 +1,22 @@
 {
-    "version": "0.1.10",
+    "version": "0.1.21",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.10/logviewer_Windows_x86_64.tar.gz",
+            "url": "https://github.com/estran-studio/logviewer/releases/download/v0.1.21/logviewer_Windows_x86_64.tar.gz",
             "bin": [
                 "logviewer.exe"
             ],
-            "hash": "cb2f07a575f3de20b768a5615e029347e46be0b1935a88a7c587cfc007761d7f"
+            "hash": "e9ccc848f24d85d420d55f2a95b62d3d25a9e78dcd2ad90aba9e759c792ab9df"
         },
         "arm64": {
-            "url": "https://github.com/bascanada/logviewer/releases/download/v0.1.10/logviewer_Windows_arm64.tar.gz",
+            "url": "https://github.com/estran-studio/logviewer/releases/download/v0.1.21/logviewer_Windows_arm64.tar.gz",
             "bin": [
                 "logviewer.exe"
             ],
-            "hash": "4e82b5b242269717ca5dc98a7c233e56e3f7d713a53a16e1e8a03148f10e2ed1"
+            "hash": "67a05d45e7bc2583bcc1fc2bade8dd9df195bf6c882da45da694fd425b683937"
         }
     },
-    "homepage": "https://github.com/bascanada/logviewer",
+    "homepage": "https://github.com/estran-studio/logviewer",
     "license": "GPL-3.0-or-later",
     "description": "CLI log client for multiple sources (Splunk, K8s, Docker, etc)"
 }
